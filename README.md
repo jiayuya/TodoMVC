@@ -1,5 +1,5 @@
 TodoMVC-demo
 
-vue
-jQuery
+vue、
+jQuery、
 DOM
